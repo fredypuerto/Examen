@@ -1,0 +1,5 @@
+Uncaught java.lang.Error exception in thread "main" in a method examen2.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete ClassBody
+
+	at examen2.main(examen2.java:24) [file:/home/alumno/Examen%20Programacion/bin/examen2.class]

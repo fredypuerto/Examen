@@ -1,0 +1,8 @@
+Uncaught java.lang.Error exception in thread "main" in a method Examen1.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "AssignmentOperator Expression" to complete Assignment
+	Syntax error, insert ";" to complete Statement
+	puntaje cannot be resolved to a variable
+	The left-hand side of an assignment must be a variable
+
+	at Examen1.main(Examen1.java:8) [file:/home/alumno/Examen%20Programacion/bin/Examen1.class]

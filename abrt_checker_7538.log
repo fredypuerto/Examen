@@ -1,0 +1,4 @@
+Uncaught java.lang.Error exception in thread "main" in a method Examen1.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+
+	at Examen1.main(Examen1.java:5) [file:/home/alumno/Examen%20Programacion/bin/Examen1.class]
